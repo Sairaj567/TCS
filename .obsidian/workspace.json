@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Cyber Threat Intelligence/Section 5 Intelligence/21. What is Intelligence.md",
+                "file": "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/28. What is CTI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21. What is Intelligence"
+              "title": "28. What is CTI"
+            }
+          },
+          {
+            "id": "6a6b8599671e9b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/38. Threat Hunting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "38. Threat Hunting"
             }
           }
         ]
@@ -194,15 +208,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87fc3c8841c81982",
+  "active": "43556227b9e10a7d",
   "lastOpenFiles": [
+    "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/39. CTI Sources.md",
+    "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/28. What is CTI.md",
+    "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/38. Threat Hunting.md",
+    "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/37. Pivoting.md",
+    "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/36. Pyramid of Pain.md",
+    "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/35. Indicator Lifecycle.md",
+    "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/29. Intelligence, Threat Intelligence and Cyber Threat Intelligence.md",
+    "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/34. IOCs and IOAs.md",
+    "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/33. Tactics, Techniques & Procedures (TTPs).md",
+    "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/32. Threat-informed Defense.md",
+    "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/31. Threat, Vulnerability & Risk.md",
+    "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)/30. What is a Threat.md",
+    "Images/Pasted image 20260722195944.png",
     "2 Cyber Threat Intelligence/Section 5 Intelligence/27. Levels of Intelligence.md",
-    "2 Cyber Threat Intelligence/Section 5 Intelligence/21. What is Intelligence.md",
+    "Images/Pasted image 20260722195758.png",
+    "Images/Pasted image 20260722195420.png",
+    "2 Cyber Threat Intelligence/Section 6 Cyber Threat Intelligence(CTI)",
     "2 Cyber Threat Intelligence/Section 5 Intelligence/26. Sources of Intelligence.md",
     "2 Cyber Threat Intelligence/Section 5 Intelligence/25. The Traffic Light Protocol (TLP).md",
     "2 Cyber Threat Intelligence/Section 5 Intelligence/24. Analysis of Competing Hypotheses (ACH).md",
+    "Images/Pasted image 20260722195033.png",
+    "Images/Pasted image 20260722195135.png",
+    "Images/Pasted image 20260722195049.png",
     "2 Cyber Threat Intelligence/Section 5 Intelligence/23. The Intelligence Cycle.md",
+    "Images/Pasted image 20260722194835.png",
     "2 Cyber Threat Intelligence/Section 5 Intelligence/22. Observe, Orient, Decide & Act.md",
+    "Images/Pasted image 20260722194453.png",
+    "2 Cyber Threat Intelligence/Section 5 Intelligence/21. What is Intelligence.md",
     "2 Cyber Threat Intelligence/Section 2 Basics of SOC/6. What is a SOC.md",
     "2 Cyber Threat Intelligence/Section 5 Intelligence",
     "Untitled",
@@ -212,33 +247,13 @@
     "README.md",
     "Images/Pasted image 20260721230751.png",
     "2 Cyber Threat Intelligence/Section 3 AZURE/16. Azure Subscription Types.md",
-    "Images/Pasted image 20260721230527.png",
     "2 Cyber Threat Intelligence/Section 3 AZURE/15. Azure Resource Hierarchy.md",
-    "Images/Pasted image 20260721230446.png",
     "2 Cyber Threat Intelligence/Section 3 AZURE/14. Shared Responsibility Model.md",
-    "Images/Pasted image 20260721225729.png",
     "2 Cyber Threat Intelligence/Section 3 AZURE/13. Azure Global Backbone.md",
-    "2 Cyber Threat Intelligence/Section 3 AZURE/12. Cloud Computing Types.md",
-    "Images/Pasted image 20260721225323.png",
-    "Pasted image 20260721225259.png",
-    "2 Cyber Threat Intelligence/Section 3 AZURE/11. Cloud Computing Properties.md",
-    "Images/Pasted image 20260721225212.png",
-    "2 Cyber Threat Intelligence/Section 2 Basics of SOC/10. Blue, Red and Purple Teaming.md",
     "2 Cyber Threat Intelligence/Section 3 AZURE",
-    "Images/Pasted image 20260721224939.png",
-    "Images/Pasted image 20260721224813.png",
     "2 Cyber Threat Intelligence/Section 2 Basics of SOC",
-    "2 Cyber Threat Intelligence/Section 2 Basics of SOC/9. EDR, XDR, SIEM & SOAR.md",
-    "2 Cyber Threat Intelligence/Section 2 Basics of SOC/8. Cyber Security Incident Response Process.md",
-    "2 Cyber Threat Intelligence/Section 2 Basics of SOC/7. SOC Model.md",
     "2 Cyber Threat Intelligence/Untitled.canvas",
-    "1 Cybersecurity Foundation/2 – Core Concepts in Cybersecurity.md",
     "2 Cyber Threat Intelligence",
-    "1 Cybersecurity Foundation/1 – Introduction to Cybersecurity.md",
-    "1 Cybersecurity Foundation/0 - CyberSec 101.md",
-    "0 - CyberSec 101.md",
-    "1 Cybersecurity Foundation/10 – Final Wrap-Up and Resources.md",
-    "1 Cybersecurity Foundation/9 – Hands-On Projects and Labs.md",
     "1 Cybersecurity Foundation",
     "Untitled.canvas"
   ]

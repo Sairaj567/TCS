@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Cyber Threat Intelligence/Section 3 AZURE/17. Entra ID Tenants and Azure Subscriptions.md",
+                "file": "2 Cyber Threat Intelligence/Section 2 Basics of SOC/6. What is a SOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Entra ID Tenants and Azure Subscriptions"
+              "title": "6. What is a SOC"
             }
           }
         ]
@@ -156,17 +156,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Cyber Threat Intelligence/Section 3 AZURE/17. Entra ID Tenants and Azure Subscriptions.md",
-                "followCursor": false,
+                "file": "2 Cyber Threat Intelligence/Section 2 Basics of SOC/6. What is a SOC.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 17. Entra ID Tenants and Azure Subscriptions"
+              "title": "Outline of 6. What is a SOC"
+            }
+          },
+          {
+            "id": "8762b0c75c9d3d75",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -184,31 +194,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87fc3c8841c81982",
+  "active": "7da08aec64a7d0a3",
   "lastOpenFiles": [
+    "Images/Pasted image 20260721224131.png",
+    "Images",
+    "2 Cyber Threat Intelligence/Section 3 AZURE/17. Entra ID Tenants and Azure Subscriptions.md",
     "README.md",
-    "Pasted image 20260721230751.png",
+    "Images/Pasted image 20260721230751.png",
     "2 Cyber Threat Intelligence/Section 3 AZURE/16. Azure Subscription Types.md",
-    "Pasted image 20260721230527.png",
+    "Images/Pasted image 20260721230527.png",
     "2 Cyber Threat Intelligence/Section 3 AZURE/15. Azure Resource Hierarchy.md",
-    "Pasted image 20260721230446.png",
+    "Images/Pasted image 20260721230446.png",
     "2 Cyber Threat Intelligence/Section 3 AZURE/14. Shared Responsibility Model.md",
-    "Pasted image 20260721225729.png",
+    "Images/Pasted image 20260721225729.png",
     "2 Cyber Threat Intelligence/Section 3 AZURE/13. Azure Global Backbone.md",
     "2 Cyber Threat Intelligence/Section 3 AZURE/12. Cloud Computing Types.md",
-    "Pasted image 20260721225323.png",
+    "Images/Pasted image 20260721225323.png",
     "Pasted image 20260721225259.png",
     "2 Cyber Threat Intelligence/Section 3 AZURE/11. Cloud Computing Properties.md",
-    "2 Cyber Threat Intelligence/Section 3 AZURE/17. Entra ID Tenants and Azure Subscriptions.md",
-    "Pasted image 20260721225212.png",
+    "Images/Pasted image 20260721225212.png",
     "2 Cyber Threat Intelligence/Section 2 Basics of SOC/10. Blue, Red and Purple Teaming.md",
     "2 Cyber Threat Intelligence/Section 3 AZURE",
-    "Pasted image 20260721224939.png",
-    "Pasted image 20260721224813.png",
+    "Images/Pasted image 20260721224939.png",
+    "Images/Pasted image 20260721224813.png",
     "2 Cyber Threat Intelligence/Section 2 Basics of SOC/6. What is a SOC.md",
     "2 Cyber Threat Intelligence/Section 2 Basics of SOC",
     "2 Cyber Threat Intelligence/Section 2 Basics of SOC/9. EDR, XDR, SIEM & SOAR.md",
-    "Pasted image 20260721224612.png",
+    "Images/Pasted image 20260721224612.png",
     "2 Cyber Threat Intelligence/Section 2 Basics of SOC/8. Cyber Security Incident Response Process.md",
     "2 Cyber Threat Intelligence/Section 2 Basics of SOC/7. SOC Model.md",
     "2 Cyber Threat Intelligence/Untitled.canvas",
@@ -225,7 +237,6 @@
     "1 Cybersecurity Foundation/5 – Data Security and Encryption.md",
     "1 Cybersecurity Foundation/4 – Endpoint and Application Security.md",
     "1 Cybersecurity Foundation/3 – Network Security Basics.md",
-    "10 – Final Wrap-Up and Resources.md",
     "1 Cybersecurity Foundation",
     "Untitled.canvas"
   ]

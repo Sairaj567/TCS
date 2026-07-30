@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Cyber Threat Intelligence/Section 13 Generative AI and CTI/79. What is an LLM.md",
+                "file": "2 Cyber Threat Intelligence/Section 14 Case Study I - MISP on Azure/87. Install Azure CLI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "79. What is an LLM"
+              "title": "87. Install Azure CLI"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 453.5
   },
   "right": {
     "id": "5231a60315f8cead",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,6 +196,14 @@
   },
   "active": "6a6b8599671e9b40",
   "lastOpenFiles": [
+    "2 Cyber Threat Intelligence/Section 14 Case Study I - MISP on Azure/85. Scenario.md",
+    "2 Cyber Threat Intelligence/Section 14 Case Study I - MISP on Azure/86. Your Free Azure Subscription.md",
+    "2 Cyber Threat Intelligence/Section 13 Generative AI and CTI/84. Demo - Generating YARA Rules.md",
+    "2 Cyber Threat Intelligence/Section 13 Generative AI and CTI/83. Demo - Generate Threat Hunting Queries in KQL.md",
+    "2 Cyber Threat Intelligence/Section 13 Generative AI and CTI/82. Demo - Assist with IOCs.md",
+    "2 Cyber Threat Intelligence/Section 13 Generative AI and CTI/81. Demo - Describe CTI.md",
+    "2 Cyber Threat Intelligence/Section 13 Generative AI and CTI/80. MITRE ATLAS.md",
+    "2 Cyber Threat Intelligence/Section 13 Generative AI and CTI/79. What is an LLM.md",
     "2 Cyber Threat Intelligence/Section 12 CTI Platform Mircrosoft Defenders XDR/75. Demo - Configure RBAC.md",
     "2 Cyber Threat Intelligence/Section 15 Case Study II - Researching APT41 with ATTACK/96. Pyramid of Pain for the Campaign.md",
     "2 Cyber Threat Intelligence/Section 15 Case Study II - Researching APT41 with ATTACK/95. Detections and Mitigations.md",
@@ -217,14 +225,6 @@
     "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/129. Threat Intelligence Rules.md",
     "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/99. Sentinel as SaaS.md",
     "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/98. What is Microsoft Sentinel.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/97. Scenario.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/135. Notebooks with MSTICPy.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/134. Notebooks.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/133. Demo - Playbooks with ChatGPT.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/132. Azure Logic Apps.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/131. Playbooks.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/130. Demo - Threat Intelligence Rules.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/127. NRT Rules.md",
     "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel",
     "2 Cyber Threat Intelligence/Section 14 Case Study I - MISP on Azure",
     "2 Cyber Threat Intelligence/Section 13 Generative AI and CTI",

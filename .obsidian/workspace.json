@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/135. Notebooks with MSTICPy.md",
+                "file": "1 Cybersecurity Foundation/10 – Final Wrap-Up and Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "135. Notebooks with MSTICPy"
+              "title": "10 – Final Wrap-Up and Resources"
             }
           }
         ]
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 255.9000244140625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,36 +198,36 @@
   },
   "active": "0856064baadcf12a",
   "lastOpenFiles": [
-    "README.md",
+    "1 Cybersecurity Foundation/9 – Hands-On Projects and Labs.md",
+    "1 Cybersecurity Foundation/8 – Legal, Ethical, and Regulatory Aspects.md",
+    "1 Cybersecurity Foundation/7 – Social Engineering and Human Factors.md",
+    "1 Cybersecurity Foundation/6 – Cybersecurity Tools & Practices.md",
+    "1 Cybersecurity Foundation/5 – Data Security and Encryption.md",
+    "1 Cybersecurity Foundation/4 – Endpoint and Application Security.md",
+    "1 Cybersecurity Foundation/3 – Network Security Basics.md",
+    "3 CompTIA Security+/Section 1 Getting Started/4. How to Follow This Course Without Getting Overwhelmed - Tracker and 3-6 Plan.md",
+    "3 CompTIA Security+/Section 1 Getting Started/3. Download Course Study Notes.md",
+    "3 CompTIA Security+/Section 1 Getting Started/2. Security+ Certification Overview.md",
+    "3 CompTIA Security+/Section 1 Getting Started/1. Why We Need You in Cyber Security.md",
+    "2 Cyber Threat Intelligence/Section 17 Case Study IV - Building a CTI Program/143. Conclusion.md",
+    "2 Cyber Threat Intelligence/Section 18 Bonus/144. Bonus.md",
+    "2 Cyber Threat Intelligence/Section 17 Case Study IV - Building a CTI Program/142. Continuous Improvement.md",
+    "1 Cybersecurity Foundation/2 – Core Concepts in Cybersecurity.md",
+    "1 Cybersecurity Foundation/10 – Final Wrap-Up and Resources.md",
+    "1 Cybersecurity Foundation/1 – Introduction to Cybersecurity.md",
+    "1 Cybersecurity Foundation/0 - CyberSec 101.md",
+    "2 Cyber Threat Intelligence/Section 17 Case Study IV - Building a CTI Program/141. Intelligence-Driven SecOps and DFIR.md",
+    "2 Cyber Threat Intelligence/Section 17 Case Study IV - Building a CTI Program/140. Establish Processes and Tools.md",
+    "2 Cyber Threat Intelligence/Section 17 Case Study IV - Building a CTI Program/139. Identify Key Intelligence Requirements.md",
+    "2 Cyber Threat Intelligence/Section 17 Case Study IV - Building a CTI Program/138. Define Strategic Goals.md",
+    "2 Cyber Threat Intelligence/Section 17 Case Study IV - Building a CTI Program/137. Steps to Building the CTI Program.md",
+    "2 Cyber Threat Intelligence/Section 17 Case Study IV - Building a CTI Program/136. Scenario and Objectives.md",
+    "2 Cyber Threat Intelligence/1 Index.md",
     "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/135. Notebooks with MSTICPy.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/134. Notebooks.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/133. Demo - Playbooks with ChatGPT.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/132. Azure Logic Apps.md",
     "Images/Pasted image 20260731193743.png",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/131. Playbooks.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/130. Demo - Threat Intelligence Rules.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/129. Threat Intelligence Rules.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/128. Demo - NRT Rules.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/127. NRT Rules.md",
-    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/126. Demo - Scheduled Rules.md",
     "Images/Pasted image 20260731120934.png",
-    "3 CompTIA Security+/Section 29 Mock Exam - Final Test and Evaluation/189. Security+ Practice Exam 1.md",
-    "3 CompTIA Security+/Section 29 Mock Exam - Final Test and Evaluation/191. Reading - Security+ SY0-701 Exam Registration and Success Strategies.md",
-    "3 CompTIA Security+/Section 29 Mock Exam - Final Test and Evaluation/190. Security+ Practice Exam 2.md",
-    "3 CompTIA Security+/Section 29 Mock Exam - Final Test and Evaluation/188. Assignment - Design a Secure Network Architecture for a Small Business.md",
     "3 CompTIA Security+/Section 29 Mock Exam - Final Test and Evaluation",
-    "3 CompTIA Security+/Section 28 Business Continuity and Disaster Recovery/186. Network Redundancy.md",
-    "3 CompTIA Security+/Section 28 Business Continuity and Disaster Recovery/187. Quiz 27.md",
-    "3 CompTIA Security+/Section 28 Business Continuity and Disaster Recovery/183. Business Continuity Planning (BCP).md",
-    "3 CompTIA Security+/Section 28 Business Continuity and Disaster Recovery/185. Recovery Sites and Alternate Processing Facilities.md",
-    "3 CompTIA Security+/Section 28 Business Continuity and Disaster Recovery/184. Developing a BCP Policy.md",
-    "3 CompTIA Security+/Section 28 Business Continuity and Disaster Recovery/182. Disaster Recovery Plan (DRP).md",
-    "3 CompTIA Security+/Section 28 Business Continuity and Disaster Recovery/181. Disaster Scenarios and Business Impact Analysis.md",
     "3 CompTIA Security+/Section 28 Business Continuity and Disaster Recovery",
-    "3 CompTIA Security+/Section 27 Security Testing, Assurance, and Auditing/180. Quiz 26.md",
-    "3 CompTIA Security+/Section 27 Security Testing, Assurance, and Auditing/178. Auditing and Audit Objectives.md",
-    "3 CompTIA Security+/Section 27 Security Testing, Assurance, and Auditing/179. Internal and External Auditing.md",
-    "3 CompTIA Security+/Section 27 Security Testing, Assurance, and Auditing/177. Bug Bounty Programs.md",
     "3 CompTIA Security+/Section 27 Security Testing, Assurance, and Auditing",
     "3 CompTIA Security+/Section 26 Incident Response and Security Monitoring II",
     "3 CompTIA Security+/Section 25 Incident Response and Security Monitoring I",

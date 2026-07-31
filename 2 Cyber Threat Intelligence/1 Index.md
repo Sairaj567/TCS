@@ -8,69 +8,69 @@
 # 📚 Course Progress
 
 ## Section 2 - Basics of SOC
-- [ ] [[6. What is a SOC]]
-- [ ] [[7. SOC Model]]
-- [ ] [[8. Cyber Security Incident Response Process]]
-- [ ] [[9. EDR, XDR, SIEM & SOAR]]
-- [ ] [[10. Blue, Red and Purple Teaming]]
+- [x] [[6. What is a SOC]]
+- [x] [[7. SOC Model]]
+- [x] [[8. Cyber Security Incident Response Process]]
+- [x] [[9. EDR, XDR, SIEM & SOAR]]
+- [x] [[10. Blue, Red and Purple Teaming]]
 
 ---
 
 ## Section 3 - Azure
 
 ### Cloud Fundamentals
-- [ ] [[11. Cloud Computing Properties]]
-- [ ] [[12. Cloud Computing Types]]
-- [ ] [[13. Azure Global Backbone]]
-- [ ] [[14. Shared Responsibility Model]]
+- [x] [[11. Cloud Computing Properties]]
+- [x] [[12. Cloud Computing Types]]
+- [x] [[13. Azure Global Backbone]]
+- [x] [[14. Shared Responsibility Model]]
 
 ### Azure Organization
-- [ ] [[15. Azure Resource Hierarchy]]
-- [ ] [[16. Azure Subscription Types]]
-- [ ] [[17. Entra ID Tenants and Azure Subscriptions]]
+- [x] [[15. Azure Resource Hierarchy]]
+- [x] [[16. Azure Subscription Types]]
+- [x] [[17. Entra ID Tenants and Azure Subscriptions]]
 
 ---
 
 ## Section 5 - Intelligence
 
 ### Intelligence Fundamentals
-- [ ] [[21. What is Intelligence]]
-- [ ] [[22. Observe, Orient, Decide & Act]]
-- [ ] [[23. The Intelligence Cycle]]
-- [ ] [[24. Analysis of Competing Hypotheses (ACH)]]
-- [ ] [[25. The Traffic Light Protocol (TLP)]]
+- [x] [[21. What is Intelligence]]
+- [x] [[22. Observe, Orient, Decide & Act]]
+- [x] [[23. The Intelligence Cycle]]
+- [x] [[24. Analysis of Competing Hypotheses (ACH)]]
+- [x] [[25. The Traffic Light Protocol (TLP)]]
 
 ### Intelligence Sources
-- [ ] [[26. Sources of Intelligence]]
-- [ ] [[27. Levels of Intelligence]]
+- [x] [[26. Sources of Intelligence]]
+- [x] [[27. Levels of Intelligence]]
 
 ---
 
 ## Section 6 - Cyber Threat Intelligence (CTI)
 
 ### CTI Fundamentals
-- [ ] [[28. What is CTI]]
-- [ ] [[29. Intelligence, Threat Intelligence and Cyber Threat Intelligence]]
-- [ ] [[30. What is a Threat]]
-- [ ] [[31. Threat, Vulnerability & Risk]]
-- [ ] [[32. Threat-informed Defense]]
+- [x] [[28. What is CTI]]
+- [x] [[29. Intelligence, Threat Intelligence and Cyber Threat Intelligence]]
+- [x] [[30. What is a Threat]]
+- [x] [[31. Threat, Vulnerability & Risk]]
+- [x] [[32. Threat-informed Defense]]
 
 ### Threat Analysis
-- [ ] [[33. Tactics, Techniques & Procedures (TTPs)]]
-- [ ] [[34. IOCs and IOAs]]
-- [ ] [[35. Indicator Lifecycle]]
-- [ ] [[36. Pyramid of Pain]]
-- [ ] [[37. Pivoting]]
+- [x] [[33. Tactics, Techniques & Procedures (TTPs)]]
+- [x] [[34. IOCs and IOAs]]
+- [x] [[35. Indicator Lifecycle]]
+- [x] [[36. Pyramid of Pain]]
+- [x] [[37. Pivoting]]
 
 ### Threat Hunting
-- [ ] [[38. Threat Hunting]]
-- [ ] [[39. CTI Sources]]
+- [x] [[38. Threat Hunting]]
+- [x] [[39. CTI Sources]]
 
 ---
 
 ## Section 7 - CTI Related Frameworks
 
-- [ ] [[Diamond model, LM Cyber Kill Chain, MITRE ATTACK]]
+- [x] [[Diamond model, LM Cyber Kill Chain, MITRE ATTACK]]
 
 ---
 
@@ -87,13 +87,13 @@
 
 # 📊 Progress Tracker
 
-| Section | Progress |
-|---------|----------|
-| Basics of SOC | ⬜⬜⬜⬜⬜ |
-| Azure | ⬜⬜⬜⬜⬜⬜⬜ |
-| Intelligence | ⬜⬜⬜⬜⬜⬜⬜ |
+| Section                   | Progress     |
+| ------------------------- | ------------ |
+| Basics of SOC             | ⬜⬜⬜⬜⬜        |
+| Azure                     | ⬜⬜⬜⬜⬜⬜⬜      |
+| Intelligence              | ⬜⬜⬜⬜⬜⬜⬜      |
 | Cyber Threat Intelligence | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
-| CTI Frameworks | ⬜ |
+| CTI Frameworks            | ⬜            |
 
 ---
 

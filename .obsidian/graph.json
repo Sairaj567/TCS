@@ -5,18 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"1 Cybersecurity Foundation - Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 6220500
+      }
+    },
+    {
+      "query": "path:\"2 Cyber Threat Intelligence - Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 13346551
+      }
+    },
+    {
+      "query": "path:\"3 CompTIA Security+\"",
+      "color": {
+        "a": 1,
+        "rgb": 16429959
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.4025207044276298,
+  "nodeSizeMultiplier": 1.59701027717222,
+  "lineSizeMultiplier": 1.35,
+  "collapse-forces": false,
+  "centerStrength": 0.469947056991591,
+  "repelStrength": 15.0634972321719,
+  "linkStrength": 0.624416069760199,
+  "linkDistance": 154,
+  "scale": 0.2292012885151346,
   "close": true
 }

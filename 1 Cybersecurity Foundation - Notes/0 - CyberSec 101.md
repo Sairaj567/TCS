@@ -7,7 +7,8 @@ status: draft
 ---
 
 ## Summary
-## Course Notes --- ## Course Overview **Course Name:** Cybersecurity 101 This course provides a strong foundation in cybersecurity by introducing the core principles, threats, security technologies, best practices, and career pathways in the field. ### Course Objectives By the end of this course, I will be able to:
+## Course Notes --- ## Course Overview **Course Name:** Cybersecurity 101 This course provides a strong foundation in cybersecurity by introducing the core principles, threats, security technologies, best practices, and career pathways in the field. 
+### Course Objectives By the end of this course, I will be able to:
 
 ## Key Concepts
 - **CyberSec** — Discussed in this lecture.

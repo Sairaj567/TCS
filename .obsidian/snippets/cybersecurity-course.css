@@ -18,6 +18,31 @@ body.theme-dark {
   --anp-header-font: var(--font-interface);
 }
 
+/* Immersive, code-native background: no bitmap needed and no visual noise. */
+body.theme-dark .app-container {
+  background-color: rgb(var(--ctp-crust));
+  background-image:
+    url("../../Images/cyber-network-background.svg"),
+    radial-gradient(circle at 12% 16%, rgba(var(--ctp-teal), 0.16) 0, transparent 23rem),
+    radial-gradient(circle at 88% 78%, rgba(var(--ctp-mauve), 0.14) 0, transparent 26rem),
+    linear-gradient(rgba(var(--ctp-teal), 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(var(--ctp-teal), 0.035) 1px, transparent 1px);
+  background-position: center, center, center, 0 0, 0 0;
+  background-size: cover, auto, auto, 32px 32px, 32px 32px;
+}
+
+body.theme-dark .workspace-split.mod-root .workspace-leaf-content,
+body.theme-dark .workspace-split.mod-root .workspace-tab-header-container {
+  background-color: rgba(var(--ctp-base), 0.88);
+  backdrop-filter: blur(10px);
+}
+
+body.theme-dark .workspace-sidedock-vault-profile,
+body.theme-dark .workspace-sidedock-vault-profile .workspace-tab-header-container {
+  background-color: rgba(var(--ctp-mantle), 0.86);
+  backdrop-filter: blur(10px);
+}
+
 /* A crisp hierarchy makes the long transcripts easy to scan. */
 .markdown-reading-view .markdown-preview-view,
 .markdown-source-view.mod-cm6 .cm-content {

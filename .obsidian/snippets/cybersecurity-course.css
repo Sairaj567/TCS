@@ -1,0 +1,165 @@
+/* Cybersecurity Study — a focused AnuPpuccin companion for this vault. */
+
+body.theme-dark {
+  --ctp-custom-teal: 94, 234, 212;
+  --ctp-custom-sky: 137, 220, 235;
+  --ctp-custom-blue: 137, 180, 250;
+  --ctp-custom-mauve: 203, 166, 247;
+  --ctp-custom-green: 166, 227, 161;
+  --ctp-custom-yellow: 249, 226, 175;
+  --ctp-custom-red: 243, 139, 168;
+  --text-accent: rgb(var(--ctp-teal));
+  --text-accent-hover: rgb(var(--ctp-sky));
+  --link-color: rgb(var(--ctp-teal));
+  --link-color-hover: rgb(var(--ctp-sky));
+  --text-highlight-bg: rgba(var(--ctp-teal), 0.18);
+  --text-selection: rgba(var(--ctp-teal), 0.25);
+  --anp-preview-width-max: 900px;
+  --anp-header-font: var(--font-interface);
+}
+
+/* A crisp hierarchy makes the long transcripts easy to scan. */
+.markdown-reading-view .markdown-preview-view,
+.markdown-source-view.mod-cm6 .cm-content {
+  line-height: 1.72;
+}
+
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.HyperMD-header-1,
+.HyperMD-header-2,
+.HyperMD-header-3 {
+  font-family: var(--font-interface);
+  letter-spacing: -0.02em;
+}
+
+.markdown-rendered h1,
+.HyperMD-header-1 {
+  color: rgb(var(--ctp-teal));
+  font-weight: 750;
+}
+
+.markdown-rendered h2,
+.HyperMD-header-2 {
+  color: rgb(var(--ctp-mauve));
+  font-size: 1.32em;
+  font-weight: 720;
+  margin-top: 2.4em;
+  padding-bottom: 0.32em;
+  border-bottom: 1px solid rgba(var(--ctp-teal), 0.23);
+}
+
+.markdown-rendered h3,
+.HyperMD-header-3 {
+  color: rgb(var(--ctp-sky));
+  font-size: 1.08em;
+  font-weight: 700;
+  margin-top: 1.7em;
+}
+
+/* Course metadata and tags read as compact study labels rather than clutter. */
+.metadata-container {
+  margin: 0.25rem 0 1.25rem;
+  padding: 0.7rem 0.85rem;
+  background: linear-gradient(135deg, rgba(var(--ctp-teal), 0.08), rgba(var(--ctp-mauve), 0.05));
+  border: 1px solid rgba(var(--ctp-teal), 0.2);
+  border-radius: 10px;
+}
+
+.metadata-property-key {
+  color: rgb(var(--ctp-subtext0));
+  font-size: 0.78em;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.tag,
+.cm-hashtag {
+  color: rgb(var(--ctp-teal)) !important;
+  background-color: rgba(var(--ctp-teal), 0.1) !important;
+  border: 1px solid rgba(var(--ctp-teal), 0.26);
+  border-radius: 999px;
+  font-size: 0.83em;
+  font-weight: 650;
+  padding: 0.08em 0.52em;
+}
+
+/* Make concept links obvious, but calm enough for dense notes. */
+.markdown-rendered .internal-link,
+.cm-hmd-internal-link {
+  color: rgb(var(--ctp-teal));
+  font-weight: 600;
+  text-decoration-color: rgba(var(--ctp-teal), 0.35);
+  text-underline-offset: 0.18em;
+}
+
+.markdown-rendered .internal-link:hover,
+.cm-hmd-internal-link:hover {
+  color: rgb(var(--ctp-sky));
+  text-decoration-color: rgb(var(--ctp-sky));
+}
+
+/* Strong visual anchors for examples, commands, and important terminology. */
+.markdown-rendered code,
+.cm-inline-code {
+  color: rgb(var(--ctp-green));
+  background: rgba(var(--ctp-green), 0.09);
+  border: 1px solid rgba(var(--ctp-green), 0.18);
+  border-radius: 5px;
+  padding: 0.08em 0.3em;
+}
+
+.markdown-rendered pre {
+  border: 1px solid rgba(var(--ctp-teal), 0.18);
+  border-radius: 10px;
+  box-shadow: 0 12px 30px rgba(var(--ctp-crust), 0.26);
+}
+
+.markdown-rendered blockquote {
+  border-left: 3px solid rgb(var(--ctp-teal));
+  background: rgba(var(--ctp-teal), 0.06);
+  border-radius: 0 8px 8px 0;
+  color: rgb(var(--ctp-subtext1));
+}
+
+.callout {
+  border: 1px solid rgba(var(--callout-color), 0.32);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(var(--ctp-crust), 0.16);
+}
+
+.callout-title {
+  font-weight: 720;
+  letter-spacing: 0.01em;
+}
+
+/* Sidebar accenting preserves the course structure at a glance. */
+.nav-folder-title[data-path^="1 Cybersecurity Foundation"],
+.nav-file-title[data-path^="1 Cybersecurity Foundation"] {
+  --nav-item-color: rgb(var(--ctp-teal));
+}
+
+.nav-folder-title[data-path^="2 Cyber Threat Intelligence"],
+.nav-file-title[data-path^="2 Cyber Threat Intelligence"] {
+  --nav-item-color: rgb(var(--ctp-mauve));
+}
+
+.nav-folder-title[data-path^="3 CompTIA Security+"],
+.nav-file-title[data-path^="3 CompTIA Security+"] {
+  --nav-item-color: rgb(var(--ctp-peach));
+}
+
+.nav-file-title.is-active,
+.nav-folder-title.is-active {
+  background: linear-gradient(90deg, rgba(var(--ctp-teal), 0.16), transparent) !important;
+  border-radius: 6px;
+}
+
+/* A subtle terminal-status indicator for draft study notes. */
+.metadata-property[data-property-key="status"] .multi-select-pill {
+  color: rgb(var(--ctp-yellow));
+  background-color: rgba(var(--ctp-yellow), 0.11);
+  border-color: rgba(var(--ctp-yellow), 0.3);
+}

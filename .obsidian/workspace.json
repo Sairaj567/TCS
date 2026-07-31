@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Cybersecurity Foundation/6 – Cybersecurity Tools & Practices.md",
+                "file": "1 Cybersecurity Foundation - Notes/0 - CyberSec 101.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6 – Cybersecurity Tools & Practices"
+              "title": "0 - CyberSec 101"
             }
           },
           {
@@ -31,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,41 +207,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0856064baadcf12a",
+  "active": "2fdf66ea722c9d18",
   "lastOpenFiles": [
-    "1 Cybersecurity Foundation/6 – Cybersecurity Tools & Practices.md",
-    "1 Cybersecurity Foundation/4 – Endpoint and Application Security.md",
-    "1 Cybersecurity Foundation/1 – Introduction to Cybersecurity.md",
+    "1 Cybersecurity Foundation - Notes/0 - CyberSec 101.md",
+    "2 Cyber Threat Intelligence - Notes/Section 7 CTI Related Frameworks/Diamond model, LM Cyber Kill Chain, MITRE ATTACK.md",
+    "2 Cyber Threat Intelligence/1 Index.md",
     "1 Cybersecurity Foundation/0 - CyberSec 101.md",
+    "1 Cybersecurity Foundation - Notes/10 – Final Wrap-Up and Resources.md",
+    "1 Cybersecurity Foundation - Notes/8 – Legal, Ethical, and Regulatory Aspects.md",
+    "1 Cybersecurity Foundation - Notes/6 – Cybersecurity Tools & Practices.md",
+    "1 Cybersecurity Foundation - Notes/1 – Introduction to Cybersecurity.md",
+    "1 Cybersecurity Foundation/2 – Core Concepts in Cybersecurity.md",
+    "1 Cybersecurity Foundation/3 – Network Security Basics.md",
+    "1 Cybersecurity Foundation/4 – Endpoint and Application Security.md",
+    "1 Cybersecurity Foundation/10 – Final Wrap-Up and Resources.md",
+    "1 Cybersecurity Foundation/9 – Hands-On Projects and Labs.md",
+    "1 Cybersecurity Foundation/7 – Social Engineering and Human Factors.md",
+    "1 Cybersecurity Foundation/8 – Legal, Ethical, and Regulatory Aspects.md",
+    "1 Cybersecurity Foundation/6 – Cybersecurity Tools & Practices.md",
+    "1 Cybersecurity Foundation/5 – Data Security and Encryption.md",
+    "1 Cybersecurity Foundation/1 – Introduction to Cybersecurity.md",
     "1 Cybersecurity Foundation - Notes/9 – Hands-On Projects and Labs.md",
     "1 Cybersecurity Foundation - Notes/7 – Social Engineering and Human Factors.md",
     "1 Cybersecurity Foundation - Notes/5 – Data Security and Encryption.md",
     "1 Cybersecurity Foundation - Notes/4 – Endpoint and Application Security.md",
     "1 Cybersecurity Foundation - Notes/2 – Core Concepts in Cybersecurity.md",
-    "1 Cybersecurity Foundation - Notes/1 – Introduction to Cybersecurity.md",
-    "1 Cybersecurity Foundation - Notes/0 - CyberSec 101.md",
     "Images/cyber-network-background.svg",
     "1 Cybersecurity Foundation - Notes/3 – Network Security Basics.md",
-    "1 Cybersecurity Foundation - Notes/6 – Cybersecurity Tools & Practices.md",
-    "1 Cybersecurity Foundation - Notes/8 – Legal, Ethical, and Regulatory Aspects.md",
-    "1 Cybersecurity Foundation - Notes/10 – Final Wrap-Up and Resources.md",
     "2 Cyber Threat Intelligence - Notes/Section 2 Basics of SOC/6. What is a SOC.md",
     "2 Cyber Threat Intelligence - Notes/Section 8 MITRE and ATTACK/49. Data Sources.md",
-    "2 Cyber Threat Intelligence - Notes/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/98. What is Microsoft Sentinel.md",
     "__pycache__/cross_link_notes.cpython-312.pyc",
     "__pycache__/build_course_notes.cpython-312.pyc",
     "__pycache__",
     "cross_link_notes.py",
-    "2 Cyber Threat Intelligence - Notes/Section 7 CTI Related Frameworks/Diamond model, LM Cyber Kill Chain, MITRE ATTACK.md",
     "2 Cyber Threat Intelligence - Notes/Section 7 CTI Related Frameworks",
-    "2 Cyber Threat Intelligence - Notes/Section 9 Threat Actor/63. APT Sandworm and motivation.md",
-    "2 Cyber Threat Intelligence - Notes/Section 9 Threat Actor/62 Threat actors- types and motivation.md",
     "2 Cyber Threat Intelligence - Notes/Section 9 Threat Actor",
-    "2 Cyber Threat Intelligence - Notes/Section 8 MITRE and ATTACK/60. Purple Teaming with ATT&CK.md",
-    "2 Cyber Threat Intelligence - Notes/Section 8 MITRE and ATTACK/59. Demo - ATT&CK Navigator.md",
-    "2 Cyber Threat Intelligence - Notes/Section 8 MITRE and ATTACK/58. Demo - Enterprise Matrix.md",
-    "2 Cyber Threat Intelligence - Notes/Section 8 MITRE and ATTACK/54. Campaigns.md",
-    "2 Cyber Threat Intelligence - Notes/Section 8 MITRE and ATTACK/57. Threat-Informed Decision Making.md",
     "2 Cyber Threat Intelligence - Notes/Section 8 MITRE and ATTACK",
     "2 Cyber Threat Intelligence - Notes/Section 6 Cyber Threat Intelligence(CTI)",
     "2 Cyber Threat Intelligence - Notes/Section 5 Intelligence",

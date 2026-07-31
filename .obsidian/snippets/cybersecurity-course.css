@@ -33,13 +33,33 @@ body.theme-dark .app-container {
 
 body.theme-dark .workspace-split.mod-root .workspace-leaf-content,
 body.theme-dark .workspace-split.mod-root .workspace-tab-header-container {
-  background-color: rgba(var(--ctp-base), 0.88);
+  background-color: rgba(var(--ctp-base), 0.78);
   backdrop-filter: blur(10px);
 }
 
-body.theme-dark .workspace-sidedock-vault-profile,
-body.theme-dark .workspace-sidedock-vault-profile .workspace-tab-header-container {
-  background-color: rgba(var(--ctp-mantle), 0.86);
+/* These selectors place the artwork inside the panes Obsidian actually renders. */
+body.theme-dark .workspace-leaf-content[data-type="markdown"] .view-content {
+  background-color: rgba(var(--ctp-base), 0.78) !important;
+  background-image:
+    linear-gradient(rgba(var(--ctp-base), 0.78), rgba(var(--ctp-base), 0.78)),
+    url("../../Images/cyber-network-background.svg") !important;
+  background-position: center, center !important;
+  background-size: cover, cover !important;
+}
+
+body.theme-dark .markdown-source-view.mod-cm6 .cm-scroller,
+body.theme-dark .markdown-reading-view {
+  background-color: transparent !important;
+}
+
+body.theme-dark .workspace-sidedock,
+body.theme-dark .workspace-sidedock .workspace-tab-header-container {
+  background-color: rgba(var(--ctp-mantle), 0.72) !important;
+  background-image:
+    linear-gradient(rgba(var(--ctp-mantle), 0.72), rgba(var(--ctp-mantle), 0.72)),
+    url("../../Images/cyber-network-background.svg") !important;
+  background-position: center, center !important;
+  background-size: cover, cover !important;
   backdrop-filter: blur(10px);
 }
 
@@ -60,7 +80,8 @@ body.theme-dark .workspace-sidedock-vault-profile .workspace-tab-header-containe
 }
 
 .markdown-rendered h1,
-.HyperMD-header-1 {
+.HyperMD-header-1,
+.cm-header-1 {
   color: rgb(var(--ctp-teal));
   font-weight: 750;
 }

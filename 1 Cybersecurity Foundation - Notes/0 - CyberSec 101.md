@@ -1,8 +1,10 @@
 ---
-course: "Cybersecurity Foundation"
-section: "Unsectioned"
-lecture: "CyberSec 101"
-tags: [cybersec, 101, cybersecurity]
+course: Cybersecurity Foundation
+section: Unsectioned
+lecture: CyberSec 101
+tags:
+  - cybersec
+  - cybersecurity
 status: draft
 ---
 

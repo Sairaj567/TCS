@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"1 Cybersecurity Foundation - Notes\"",
@@ -29,16 +29,16 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.59701027717222,
-  "lineSizeMultiplier": 1.35,
+  "textFadeMultiplier": 0.6,
+  "nodeSizeMultiplier": 1.42609778885083,
+  "lineSizeMultiplier": 0.718031765805045,
   "collapse-forces": false,
-  "centerStrength": 0.469947056991591,
-  "repelStrength": 15.0634972321719,
-  "linkStrength": 0.624416069760199,
-  "linkDistance": 154,
+  "centerStrength": 0.320460915602616,
+  "repelStrength": 15.79290133507,
+  "linkStrength": 0.659296169417627,
+  "linkDistance": 255,
   "scale": 0.2292012885151346,
   "close": true
 }

@@ -5,7 +5,7 @@ lecture: "Endpoint and Application Security"
 tags: [endpoint, application, cybersecurity]
 status: draft
 ---
-
+ 
 ## Summary
 Antivirus and anti-malware tools are security [[2 Cyber Threat Intelligence - Notes/Section 8 MITRE and ATTACK/53. Software|software]] programs designed to protect endpoint devices such as laptops, desktops, tablets, and smartphones from malicious software. These tools act as the first line of defense against a wide variety of threats that target users through downloads, email attachments, removable drives, and malicious websites.
 

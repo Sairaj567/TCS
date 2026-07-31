@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/100. Sentinel Architecture.md",
+                "file": "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/112. Demo - Sentinel RBAC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "100. Sentinel Architecture"
+              "title": "112. Demo - Sentinel RBAC"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 381.5
   },
   "right": {
     "id": "5231a60315f8cead",
@@ -196,11 +198,27 @@
   },
   "active": "6a6b8599671e9b40",
   "lastOpenFiles": [
+    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/111. Sentinel RBAC.md",
+    "Pasted image 20260731124955.png",
+    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/110. Demo - Create a Sentinel Workspace.md",
+    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/109. Demo - Create a Log Analytics Workspace.md",
+    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/108. Demo - Create a Resource Group.md",
+    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/107. Demo - Create an Azure Subscription.md",
+    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/106. CTI in Sentinel.md",
+    "Pasted image 20260731124151.png",
+    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/105. Typical Data Sources for a SIEM.md",
+    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/104. Content Hub.md",
+    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/103. Data Connectors.md",
+    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/102. Azure Log Analytics.md",
+    "Pasted image 20260731120934.png",
+    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/101. Deployment Prerequisites.md",
+    "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/100. Sentinel Architecture.md",
+    "Images/Pasted image 20260730224713.png",
     "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/99. Sentinel as SaaS.md",
     "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/98. What is Microsoft Sentinel.md",
     "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel/97. Scenario.md",
     "2 Cyber Threat Intelligence/Section 15 Case Study II - Researching APT41 with ATTACK/96. Pyramid of Pain for the Campaign.md",
-    "Pasted image 20260730150254.png",
+    "Images/Pasted image 20260730150254.png",
     "2 Cyber Threat Intelligence/Section 15 Case Study II - Researching APT41 with ATTACK/95. Detections and Mitigations.md",
     "2 Cyber Threat Intelligence/Section 15 Case Study II - Researching APT41 with ATTACK/94. Tactics, Techniques and Subtechniques.md",
     "2 Cyber Threat Intelligence/Section 15 Case Study II - Researching APT41 with ATTACK/93. Campaigns and the Groups.md",
@@ -212,20 +230,8 @@
     "2 Cyber Threat Intelligence/Section 14 Case Study I - MISP on Azure/90. Demo - Install MISP on Azure VM.md",
     "2 Cyber Threat Intelligence/Section 14 Case Study I - MISP on Azure/88. Demo - Create a Resource Group.md",
     "2 Cyber Threat Intelligence/Section 14 Case Study I - MISP on Azure/87. Install Azure CLI.md",
-    "2 Cyber Threat Intelligence/Section 14 Case Study I - MISP on Azure/85. Scenario.md",
-    "2 Cyber Threat Intelligence/Section 14 Case Study I - MISP on Azure/86. Your Free Azure Subscription.md",
-    "2 Cyber Threat Intelligence/Section 13 Generative AI and CTI/84. Demo - Generating YARA Rules.md",
-    "2 Cyber Threat Intelligence/Section 13 Generative AI and CTI/83. Demo - Generate Threat Hunting Queries in KQL.md",
-    "2 Cyber Threat Intelligence/Section 13 Generative AI and CTI/82. Demo - Assist with IOCs.md",
-    "2 Cyber Threat Intelligence/Section 13 Generative AI and CTI/81. Demo - Describe CTI.md",
-    "2 Cyber Threat Intelligence/Section 13 Generative AI and CTI/80. MITRE ATLAS.md",
-    "2 Cyber Threat Intelligence/Section 12 CTI Platform Mircrosoft Defenders XDR/75. Demo - Configure RBAC.md",
     "2 Cyber Threat Intelligence/Section 15 Case Study II - Researching APT41 with ATTACK",
-    "2 Cyber Threat Intelligence/Section 18 Bonus/144. Bonus.md",
     "2 Cyber Threat Intelligence/Section 18 Bonus",
-    "2 Cyber Threat Intelligence/Section 17 Case Study IV - Building a CTI Program/143. Conclusion.md",
-    "2 Cyber Threat Intelligence/Section 17 Case Study IV - Building a CTI Program/142. Continuous Improvement.md",
-    "2 Cyber Threat Intelligence/Section 17 Case Study IV - Building a CTI Program/140. Establish Processes and Tools.md",
     "2 Cyber Threat Intelligence/Section 17 Case Study IV - Building a CTI Program",
     "2 Cyber Threat Intelligence/Section 16 Case Study III - Leveraging CTI in Microsoft Sentinel",
     "2 Cyber Threat Intelligence/Section 14 Case Study I - MISP on Azure",
@@ -238,10 +244,6 @@
     "Images/Pasted image 20260728142006.png",
     "Images/Pasted image 20260728141807.png",
     "Images/Pasted image 20260726190219.png",
-    "Images/Pasted image 20260726195042.png",
-    "Images/Pasted image 20260726193714.png",
-    "Images/Pasted image 20260726191837.png",
-    "Images/Pasted image 20260726191818.png",
     "2 Cyber Threat Intelligence/Untitled.canvas",
     "Untitled.canvas"
   ]

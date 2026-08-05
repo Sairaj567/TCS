@@ -25,14 +25,10 @@
             "id": "b53707ee7ef2fdea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Cybersecurity Foundation - Notes/4 – Endpoint and Application Security.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4 – Endpoint and Application Security"
+              "title": "New tab"
             }
           }
         ],
@@ -213,8 +209,13 @@
   },
   "active": "b53707ee7ef2fdea",
   "lastOpenFiles": [
-    "1 Cybersecurity Foundation - Notes/5 – Data Security and Encryption.md",
+    "3 CompTIA Security+/Section 1 Getting Started/2. Security+ Certification Overview.md",
+    "3 CompTIA Security+/Section 1 Getting Started/3. Download Course Study Notes.md",
+    "3 CompTIA Security+/Section 1 Getting Started/CompTIA+Security++(SY0-701)+Exam+Objectives.pdf",
+    "3 CompTIA Security+/Section 2 Core Security Concepts/4. How to Follow This Course Without Getting Overwhelmed - Tracker and 3-6 Plan.md",
+    "3 CompTIA Security+/Section 1 Getting Started/1. Why We Need You in Cyber Security.md",
     "1 Cybersecurity Foundation - Notes/4 – Endpoint and Application Security.md",
+    "1 Cybersecurity Foundation - Notes/5 – Data Security and Encryption.md",
     "1 Cybersecurity Foundation - Notes/0 - CyberSec 101.md",
     "2 Cyber Threat Intelligence - Notes/Section 7 CTI Related Frameworks/Diamond model, LM Cyber Kill Chain, MITRE ATTACK.md",
     "2 Cyber Threat Intelligence/1 Index.md",
@@ -234,12 +235,7 @@
     "1 Cybersecurity Foundation/5 – Data Security and Encryption.md",
     "1 Cybersecurity Foundation/1 – Introduction to Cybersecurity.md",
     "1 Cybersecurity Foundation - Notes/9 – Hands-On Projects and Labs.md",
-    "1 Cybersecurity Foundation - Notes/7 – Social Engineering and Human Factors.md",
-    "1 Cybersecurity Foundation - Notes/2 – Core Concepts in Cybersecurity.md",
     "Images/cyber-network-background.svg",
-    "1 Cybersecurity Foundation - Notes/3 – Network Security Basics.md",
-    "2 Cyber Threat Intelligence - Notes/Section 2 Basics of SOC/6. What is a SOC.md",
-    "2 Cyber Threat Intelligence - Notes/Section 8 MITRE and ATTACK/49. Data Sources.md",
     "__pycache__/cross_link_notes.cpython-312.pyc",
     "__pycache__/build_course_notes.cpython-312.pyc",
     "__pycache__",
@@ -249,7 +245,6 @@
     "2 Cyber Threat Intelligence - Notes/Section 8 MITRE and ATTACK",
     "2 Cyber Threat Intelligence - Notes/Section 6 Cyber Threat Intelligence(CTI)",
     "2 Cyber Threat Intelligence - Notes/Section 5 Intelligence",
-    "2 Cyber Threat Intelligence - Notes/Section 3 AZURE",
     "Images/Pasted image 20260731193743.png",
     "Images/Pasted image 20260731120934.png",
     "Images/Pasted image 20260731124955.png",
